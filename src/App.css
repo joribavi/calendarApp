@@ -1,0 +1,17 @@
+.btn2 {
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: rgba(101, 18, 117, 0.919);
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.btn2:hover {
+    color: rgba(20, 2, 20, 0.516);
+}
+
+h2 {
+    font-size: 1.5rem;
+}
